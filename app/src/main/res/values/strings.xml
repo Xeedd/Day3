@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Day3</string>
+     <string-array name="animals">
+     <item>Lion</item>
+         <item>Zebra</item>
+         <item>Owl</item>
+         <item>Lizard</item>
+         <item>Hiena</item>
+         <item>Parrot</item>
+     </string-array>
+    
+</resources>
